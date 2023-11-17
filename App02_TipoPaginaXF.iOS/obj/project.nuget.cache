@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vmLiSCXC/f9Qwb7eXUp/EcHBHo90lf3XV+EIY43AXdSww4C1URkDl4x6sK0ThxGTZGLeP8ol/N/pHVNTj6XuQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaio\\Documents\\StudyXamarin\\App02_TipoPaginaXF\\App02_TipoPaginaXF.iOS\\App02_TipoPaginaXF.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaio\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Kaio\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Kaio\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
